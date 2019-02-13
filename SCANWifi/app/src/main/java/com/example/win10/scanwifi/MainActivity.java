@@ -12,7 +12,8 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import java.text.SimpleDateFormat;
 
 import static com.example.win10.scanwifi.WifiController.WifiCipherType.WIFICIPHER_NOPASS;
 import static com.example.win10.scanwifi.WifiController.WifiCipherType.WIFICIPHER_WEP;
